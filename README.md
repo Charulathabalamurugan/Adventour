@@ -12,9 +12,7 @@ Adventour is an open-source project; we welcome you to explore its codebase and 
   <a href="https://adventour-travelwebsite.netlify.app/"><strong>➥ Live Demo</strong></a>
 </div>
 
-## Screeshot
 
-![Tourest Desktop Demo](./Adventour.png "Desktop Demo")
 
 
 
